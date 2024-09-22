@@ -4,37 +4,41 @@
     "id":"1",
     "title": "iPhone 9",
     "description": "An apple mobile which is nothing like apple. Get yours today and experience the innovation!",
-    "price": 549,
-    "rating": 4.69,
-    "images": "https://cdn.dummyjson.com/product-images/1/1.jpg"
+    "price": 54900,
+    "rating": 5.00,
+    "images": "https://cdn.mos.cms.futurecdn.net/yDn3ZSXu9eSBxmXQDZ4PCF-970-80.jpg.webp"
   },
   {
+    "id":"2",
     "title": "iPhone X",
     "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ... Experience the future of smartphones with iPhone X!",
-    "price": 899,
-    "rating": 4.44,
-    "images": "https://cdn.dummyjson.com/product-images/2/1.jpg"
+    "price": 89900,
+    "rating": 3.44,
+    "images": "https://www.91-img.com/gallery_images_uploads/3/d/3df5ca6a9b470f715b085991144a5b76e70da975.JPG?tr=h-630,c-at_max,q-80"
   },
-  {
+  {  
+    "id":"3",
     "title": "Samsung Universe 9",
     "description": "Samsung's new variant which goes beyond Galaxy to the Universe. Explore the possibilities with Samsung Universe 9!",
-    "price": 1249,
+    "price": 12490,
     "rating": 4.09,
-    "images": "https://cdn.dummyjson.com/product-images/3/1.jpg"
+    "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1iLoKO8Gi9Dr9jMnyczfM26dTR8-tnvVjA&s"
   },
   {
-    "title": "OPPOF19",
-    "description": "OPPO F19 is officially announced on April 2021. Don't miss out on the latest features and sleek design!",
-    "price": 280,
+    "id":"4",
+    "title": "STRANGER THINGS",
+    "description": "Stranger Things: The Bully" is a graphic novel that explores the backstory of Troy, the school bully, revealing his perspective and struggles.",
+    "price": 480,
     "rating": 4.3,
-    "images": "https://cdn.dummyjson.com/product-images/4/1.jpg"
+    "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07s9yTzJRDFOl8b6Vm9EA6O_nnKZey9fLnw&s"
   },
   {
+    "id":"5",
     "title": "Huawei P30",
     "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK. Grab yours now and experience the latest technology!",
-    "price": 499,
-    "rating": 4.09,
-    "images": "https://cdn.dummyjson.com/product-images/5/1.jpg"
+    "price": 19900,
+    "rating": 2.09,
+    "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDZaM21wFzIcyVsr27TlZqa3H_CLstbDeoA&s"
   }
   
 ]
